@@ -21,8 +21,9 @@ Operates independently without constant human intervention.
 
 ***Software:*** Arduino IDE,Python Flask,ESP32-CAM Firmware,Arduino UNO Code,Telegram Bot Application
 
-## Working Model
-![Working model of Smart Patrol Bot]("C:\Users\hii\Pictures\Screenshots\working_model.png")
+## ⚙️Working Model
+<img width="464" height="494" alt="working_model" src="https://github.com/user-attachments/assets/abd6a923-53a7-47cd-b05b-1aae21264560" />
+
 
 ## 📌Future Enhancements
 ✅***Advanced Object Detection:*** Integrate AI for improved recognition and tracking.
